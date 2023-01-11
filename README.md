@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aldemir Lucas</h1>
+<h1 align="center">Hi 👋, I'm Aldemir Lucas (Lessa)</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aldemirlucas&" alt="aldemirlucas" /></p>
